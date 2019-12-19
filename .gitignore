@@ -1,2 +1,5 @@
 # Ignore files with these extensions
 *.csv
+
+# Folders
+.ipynb_checkpoints/
